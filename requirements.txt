@@ -1,9 +1,11 @@
-streamlit
-opencv-python
-numpy
-tensorflow
+
 matplotlib
 pandas
 pyngrok
 scikit-learn
+streamlit
+tensorflow==2.12.0
+opencv-python-headless
+numpy
+pillow
 
