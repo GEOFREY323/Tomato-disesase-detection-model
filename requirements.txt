@@ -1,11 +1,5 @@
-
-matplotlib
-pandas
-pyngrok
-scikit-learn
 streamlit
-tensorflow==2.12.0
+tensorflow-cpu==2.20.0
 opencv-python-headless
 numpy
 pillow
-
